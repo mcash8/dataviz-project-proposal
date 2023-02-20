@@ -8,7 +8,7 @@ The data I propose to visualize for my project is the chess games dataset from: 
 
 I’ve created a proof of concept visualization of the chess games dataset. It's a stacked bar plot and it shows the number of wins according to piece color and also how each game was won (ie: out of time, resign, check mate, or draw) 
 
-[![image]![image](https://user-images.githubusercontent.com/63068410/220152729-07241e1e-eac5-43be-80e2-1050dbc43901.png)
+[![image](https://user-images.githubusercontent.com/63068410/220152729-07241e1e-eac5-43be-80e2-1050dbc43901.png)
 ](https://vizhub.com/mcash8/294e9f53232746f1ac892105dc724be9)
 
 ## Questions & Tasks
@@ -25,12 +25,15 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
  
 ![image](https://user-images.githubusercontent.com/63068410/220155332-c287ffc0-7fa4-4c22-beba-7a39cd0f85fd.png)
+
 The purpose of the donut chart is to visualize the distribution of wins among the different piece colors. 
 
 ![image](https://user-images.githubusercontent.com/63068410/220155576-7fab3cd9-4506-4096-b8a7-2450a3a14305.png)
 
+The second sketch would aid in answering the question: what opening moves are used the most? I think it would also be neat to add interactivity here and let the user select an opening move style and highlight the areas of the board corresponding to that move. 
 
 ![image](https://user-images.githubusercontent.com/63068410/220155643-dc18776d-fdcf-4c52-9faa-ed71897105f7.png)
+
 
 ![image](https://user-images.githubusercontent.com/63068410/220155687-04534372-e587-40d8-8379-d52b318b3217.png)
 
