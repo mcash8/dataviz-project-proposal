@@ -8,32 +8,33 @@ The data I propose to visualize for my project is the chess games dataset from: 
 
 I’ve created a proof of concept visualization of the chess games dataset. It's a stacked bar plot and it shows the number of wins according to piece color and also how each game was won (ie: out of time, resign, check mate, or draw) 
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/mcash8/294e9f53232746f1ac892105dc724be9)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+[![image]![image](https://user-images.githubusercontent.com/63068410/220152729-07241e1e-eac5-43be-80e2-1050dbc43901.png)
+](https://vizhub.com/mcash8/294e9f53232746f1ac892105dc724be9)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ *  Is there an average win rate based on player ranking?
+ *  Do both black and white pieces have an equal distrubution of wins?
+ *  What opening moves are used the most?
+ *  Is there a correlation between age and # of hours selpt?
+ *  Are there any patterns with bedtime and deep sleep percentage?
+ *  Task: Add a drop down menu for user selection of data to plot for sleep efficency dataset
 
 ## Sketches
+ 
+![image](https://user-images.githubusercontent.com/63068410/220155332-c287ffc0-7fa4-4c22-beba-7a39cd0f85fd.png)
+The purpose of the donut chart is to visualize the distribution of wins among the different piece colors. 
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+![image](https://user-images.githubusercontent.com/63068410/220155576-7fab3cd9-4506-4096-b8a7-2450a3a14305.png)
+
+
+![image](https://user-images.githubusercontent.com/63068410/220155643-dc18776d-fdcf-4c52-9faa-ed71897105f7.png)
+
+![image](https://user-images.githubusercontent.com/63068410/220155687-04534372-e587-40d8-8379-d52b318b3217.png)
+
+
 
 ## Open Questions
 
