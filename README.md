@@ -2,13 +2,13 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is the chess games dataset from: https://www.kaggle.com/datasets/datasnaek/chess and a sleep efficency dataset from: https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of the chess games dataset. It's a stacked bar plot and it shows the number of wins according to piece color and also how each game was won (ie: out of time, resign, check mate, or draw) 
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/mcash8/294e9f53232746f1ac892105dc724be9)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
