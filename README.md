@@ -34,15 +34,19 @@ The second sketch would aid in answering the question: what opening moves are us
 
 ![image](https://user-images.githubusercontent.com/63068410/220155643-dc18776d-fdcf-4c52-9faa-ed71897105f7.png)
 
+The third sketch would aid in answering the question: What is the average win rate among different player rankings. In theory, the answer to this question should take on some distribution. This plot could also be interactive. 
 
 ![image](https://user-images.githubusercontent.com/63068410/220155687-04534372-e587-40d8-8379-d52b318b3217.png)
 
+Finally, most of the sleep data can be visualized as a bar chart. For this, I plan make most of these graphs interactive and let the user choose the x/y data. 
 
-
-## Open Questions
-
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
 
 ## Milestones
-
-(for each week, estimate what would be accomplised)
+Week 7 - Find a way to visualize a chess board in D3, begin heat map visual
+Week 8 - Create a template bar chart for sleep data, create a template distribution plot for chess data
+Week 9 - Implement drop down menu for graphics with visuals
+Week 10 - Add labels, titles, legends to plots
+Week 11 - Debug 
+Week 12 - Debug
+Week 13 - Debug, work on visusal aesthetics 
+Week 14 - Finalize Visualization
