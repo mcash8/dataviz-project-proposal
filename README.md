@@ -43,10 +43,17 @@ Finally, most of the sleep data can be visualized as a bar chart. For this, I pl
 
 ## Milestones
 Week 7 - Find a way to visualize a chess board in D3, begin heat map visual
+
 Week 8 - Create a template bar chart for sleep data, create a template distribution plot for chess data
+
 Week 9 - Implement drop down menu for graphics with visuals
+
 Week 10 - Add labels, titles, legends to plots
+
 Week 11 - Debug 
+
 Week 12 - Debug
+
 Week 13 - Debug, work on visusal aesthetics 
+
 Week 14 - Finalize Visualization
