@@ -21,7 +21,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 The purpose of the donut chart is to visualize the distribution of wins among the different piece colors. 
 
-The Final Visual: 
+The Final Visual: https://vizhub.com/mcash8/e297c2fa1c754df488c9f24fe1a55755?mode=full
 
 Remarks & Changes From Plan: 
 
